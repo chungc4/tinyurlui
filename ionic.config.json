@@ -1,0 +1,8 @@
+{
+  "name": "tinyurl",
+  "app_id": "a5b88137",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
